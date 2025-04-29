@@ -97,4 +97,4 @@ https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
 
 
 Important: When importing the Kinect Azure package, do not overwrite the KinectManager class
-![alt text](https://raw.githubusercontent.com/tooldigital/InfraRedTracker-Engine/refs/heads/main/images/kinectmanager.png)
+![alt text](https://raw.githubusercontent.com/wimvanhenden/InfraRedTracker/refs/heads/main/images/kinectmanager.png)
