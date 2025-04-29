@@ -5,7 +5,7 @@ A real-time object tracking system that uses Azure Kinect or Orbbec Femto Bolt c
 
 To test you can use Infra Red reflective tape on the object you want to track.
 
-![alt text](https://raw.githubusercontent.com/wimvanhenden/InfraRedTracker/refs/heads/main/images/tape.jpg)
+![alt text](https://raw.githubusercontent.com/tooldigital/InfraRedTracker-Engine/refs/heads/main/images/tape.jpg)
 
 ## Overview
 This project provides a complete infrastructure for infrared object tracking, consisting of three main components:
