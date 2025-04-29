@@ -1,7 +1,7 @@
 # Infrared Tracker
 
 A real-time object tracking system that uses Azure Kinect or Orbbec Femto Bolt cameras, built with Unity and Node.js
-[![Watch the video](https://raw.githubusercontent.com/wimvanhenden/InfraRedTracker/refs/heads/main/images/tracker.gif)](https://raw.githubusercontent.com/wimvanhenden/InfraRedTracker/refs/heads/main/images/tracker.mp4)
+[![Watch the video](https://raw.githubusercontent.com/tooldigital/InfraRedTracker/refs/heads/main/images/tracker.gif)](https://raw.githubusercontent.com/tooldigital/InfraRedTracker/refs/heads/main/images/tracker.mp4)
 
 To test you can use Infra Red reflective tape on the object you want to track.
 
@@ -54,14 +54,14 @@ Navigate to the StreamingAssets/config.json file and configure:
 
 #### Tracker UI controls
 Use "Show/Hide Inputs" for advanced controls
-![alt text](https://raw.githubusercontent.com/wimvanhenden/InfraRedTracker/refs/heads/main/images/ui_1.png)
+![alt text](https://raw.githubusercontent.com/tooldigital/InfraRedTracker/refs/heads/main/images/ui_1.png)
 
 Create tracking areas:
 - Click "Start Setting Area" button
 - Enter a unique ID in the "Set Custom ID" field
 - Use left mouse click to define area corners
 - Up to 4 tracking areas can be set
-![alt text](https://raw.githubusercontent.com/wimvanhenden/InfraRedTracker/refs/heads/main/images/ui_2.png)
+![alt text](https://raw.githubusercontent.com/tooldigital/InfraRedTracker/refs/heads/main/images/ui_2.png)
 
 ### Tracker Server
 Configure IP address and port in config.json
@@ -78,7 +78,7 @@ Press 'd' to enable debug view for all connected clients.
 Configure IP address and port in StreamingAssets/tracker_config.json
 
 Make sure the id corresponds with one of the area id's in the tracker.
-![alt text](https://raw.githubusercontent.com/wimvanhenden/InfraRedTracker/refs/heads/main/images/id_check.png)
+![alt text](https://raw.githubusercontent.com/tooldigital/InfraRedTracker/refs/heads/main/images/id_check.png)
 
 
 Press 'd' to toggle debug view.
@@ -97,4 +97,4 @@ https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
 
 
 Important: When importing the Kinect Azure package, do not overwrite the KinectManager class
-![alt text](https://raw.githubusercontent.com/wimvanhenden/InfraRedTracker/refs/heads/main/images/kinectmanager.png)
+![alt text](https://raw.githubusercontent.com/tooldigital/InfraRedTracker/refs/heads/main/images/kinectmanager.png)
